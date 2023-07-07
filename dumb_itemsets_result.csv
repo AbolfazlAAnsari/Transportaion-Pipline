@@ -1,0 +1,88 @@
+support,itemsets
+0.39941937053422594,frozenset({'Weather_Fair'})
+0.3692583548831803,frozenset({'Part_of_Day_Afternoon (12-17)'})
+0.27011920744618545,frozenset({'Part_of_Day_Evening (18-23)'})
+0.23561986970977536,frozenset({'Part_of_Day_Morning (6-11)'})
+0.1733249236369534,frozenset({'Weekday_Friday'})
+0.16689186632186911,frozenset({'December'})
+0.16324950668120342,frozenset({'Weekday_Thursday'})
+0.16033518646999992,frozenset({'Weekday_Wednesday'})
+0.15639800690195796,frozenset({'Weekday_Tuesday'})
+0.1476975753043259,frozenset({'Weekday_Monday'})
+0.1419730949785102,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weather_Fair'})"
+0.13344241910923293,frozenset({'Weather_Mostly Cloudy'})
+0.12816088950559995,frozenset({'Weather_Cloudy'})
+0.1259209068055468,frozenset({'November'})
+0.11792256471711884,"frozenset({'Weather_Fair', 'Part_of_Day_Evening (18-23)'})"
+0.10922681852175559,frozenset({'Weekday_Saturday'})
+0.10531811178288566,frozenset({'October'})
+0.10203652811691881,frozenset({'Junction'})
+0.09910382671219917,frozenset({'Part_of_Day_Night (0-5)'})
+0.09382914500418983,frozenset({'Traffic_Signal'})
+0.09147238766297541,frozenset({'Weather_Partly Cloudy'})
+0.08976798248380383,frozenset({'Weekday_Sunday'})
+0.08486488921726751,frozenset({'September'})
+0.0825164214339133,"frozenset({'Weather_Fair', 'Part_of_Day_Morning (6-11)'})"
+0.07960534496274205,frozenset({'June'})
+0.07107178576899165,frozenset({'Crossing'})
+0.06950001351558346,frozenset({'January'})
+0.06859464963102457,frozenset({'February'})
+0.0685095915590676,"frozenset({'Weather_Fair', 'Weekday_Friday'})"
+0.06828685474351928,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weekday_Friday'})"
+0.06423794635214403,frozenset({'May'})
+0.06283592982709063,frozenset({'August'})
+0.06264635124298316,frozenset({'Weather_Clear'})
+0.06242613733634881,"frozenset({'Weather_Fair', 'December'})"
+0.06237279583359614,"frozenset({'Weather_Fair', 'Weekday_Wednesday'})"
+0.061903534775596264,"frozenset({'Weekday_Tuesday', 'Weather_Fair'})"
+0.06129046790949965,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weekday_Thursday'})"
+0.061136930881306145,"frozenset({'Weekday_Thursday', 'Weather_Fair'})"
+0.06106520818503735,"frozenset({'Weather_Fair', 'November'})"
+0.060768586179865386,"frozenset({'Part_of_Day_Afternoon (12-17)', 'December'})"
+0.06070046763918798,frozenset({'April'})
+0.059817089103736606,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weekday_Wednesday'})"
+0.05969887280033879,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weather_Mostly Cloudy'})"
+0.05817431498517791,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weekday_Tuesday'})"
+0.05620608561671608,"frozenset({'Weather_Fair', 'Weekday_Monday'})"
+0.05586333041997423,frozenset({'July'})
+0.05580602434607102,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weekday_Monday'})"
+0.05566654352468396,frozenset({'March'})
+0.05025706639755638,"frozenset({'Weather_Fair', 'Weekday_Saturday'})"
+0.049811953182018864,frozenset({'Weather_Light Rain'})
+0.04777776776623447,"frozenset({'December', 'Part_of_Day_Evening (18-23)'})"
+0.04741627096041736,"frozenset({'Part_of_Day_Evening (18-23)', 'Weekday_Friday'})"
+0.04521845688078354,"frozenset({'Weather_Fair', 'October'})"
+0.04461187749475145,"frozenset({'Part_of_Day_Night (0-5)', 'Weather_Fair'})"
+0.04455853599199877,"frozenset({'Part_of_Day_Afternoon (12-17)', 'November'})"
+0.04346755809448294,"frozenset({'Weekday_Thursday', 'Part_of_Day_Evening (18-23)'})"
+0.042990728309741134,"frozenset({'Part_of_Day_Evening (18-23)', 'Weekday_Wednesday'})"
+0.04165214492309633,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weather_Partly Cloudy'})"
+0.04120018381193516,"frozenset({'Weekday_Tuesday', 'Part_of_Day_Evening (18-23)'})"
+0.040945009596064265,"frozenset({'Weekday_Tuesday', 'Part_of_Day_Morning (6-11)'})"
+0.04090031806673094,"frozenset({'Weekday_Thursday', 'Part_of_Day_Morning (6-11)'})"
+0.04053017128749448,"frozenset({'Part_of_Day_Morning (6-11)', 'Weekday_Wednesday'})"
+0.03968715929466675,"frozenset({'Weather_Cloudy', 'Part_of_Day_Afternoon (12-17)'})"
+0.039071209104097025,"frozenset({'Part_of_Day_Afternoon (12-17)', 'October'})"
+0.039033365470387354,"frozenset({'Weather_Fair', 'Weekday_Sunday'})"
+0.03886649306650568,"frozenset({'Weather_Fair', 'Traffic_Signal'})"
+0.03839146535955957,"frozenset({'Weekday_Friday', 'Part_of_Day_Morning (6-11)'})"
+0.038386779957290756,"frozenset({'Weather_Fair', 'September'})"
+0.03829235108079616,"frozenset({'Crossing', 'Traffic_Signal'})"
+0.03824153248695746,"frozenset({'Part_of_Day_Evening (18-23)', 'Weekday_Monday'})"
+0.03812223493688222,"frozenset({'Weekday_Monday', 'Part_of_Day_Morning (6-11)'})"
+0.0371548795761513,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Weekday_Saturday'})"
+0.03651874611426975,"frozenset({'November', 'Part_of_Day_Evening (18-23)'})"
+0.036298892623194544,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Traffic_Signal'})"
+0.03511312543362497,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Junction'})"
+0.034761720263463775,"frozenset({'June', 'Weather_Fair'})"
+0.03423947811827036,"frozenset({'December', 'Part_of_Day_Morning (6-11)'})"
+0.03421749276916285,"frozenset({'Part_of_Day_Afternoon (12-17)', 'June'})"
+0.03382536064081886,"frozenset({'Weather_Cloudy', 'Part_of_Day_Evening (18-23)'})"
+0.03365596532802321,"frozenset({'Weather_Mostly Cloudy', 'Part_of_Day_Evening (18-23)'})"
+0.032945586260958885,"frozenset({'Part_of_Day_Afternoon (12-17)', 'September'})"
+0.03205139525873332,"frozenset({'Weather_Cloudy', 'Part_of_Day_Morning (6-11)'})"
+0.03125271437967977,"frozenset({'Weekday_Thursday', 'December'})"
+0.031129812674013137,"frozenset({'Weather_Fair', 'Junction'})"
+0.030957894452303507,"frozenset({'Weekday_Saturday', 'Part_of_Day_Evening (18-23)'})"
+0.030591351828658443,frozenset({'Weather_Overcast'})
+0.030459079318454176,"frozenset({'Crossing', 'Weather_Fair'})"
