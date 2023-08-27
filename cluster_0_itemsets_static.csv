@@ -1,0 +1,36 @@
+support,itemsets
+0.6917921494698039,frozenset({'Wind_Chill(F)_4'})
+0.5712155990439907,frozenset({'Temperature(F)_3'})
+0.5275641480710224,frozenset({'Pressure(in)_3'})
+0.47243585192897763,frozenset({'Pressure(in)_2'})
+0.4332962603626841,frozenset({'Part_of_Day_Afternoon (12-17)'})
+0.4096510670968183,frozenset({'Weather_Fair'})
+0.39067023198214185,frozenset({'Humidity(%)_3'})
+0.3763931943491327,"frozenset({'Wind_Chill(F)_4', 'Temperature(F)_3'})"
+0.3628470989743145,"frozenset({'Wind_Chill(F)_4', 'Pressure(in)_2'})"
+0.3600258722007935,frozenset({'Temperature(F)_4'})
+0.35395747388459,"frozenset({'Wind_Chill(F)_4', 'Part_of_Day_Afternoon (12-17)'})"
+0.32895556765028355,"frozenset({'Pressure(in)_3', 'Temperature(F)_3'})"
+0.32894505049548944,"frozenset({'Wind_Chill(F)_4', 'Pressure(in)_3'})"
+0.3276698454767032,frozenset({'Humidity(%)_4'})
+0.31539895512067123,"frozenset({'Wind_Chill(F)_4', 'Temperature(F)_4'})"
+0.2913830321483129,frozenset({'Wind_Chill(F)_3'})
+0.2885880982617772,frozenset({'Wind_Speed(mph)_4'})
+0.2882857300614465,"frozenset({'Wind_Chill(F)_4', 'Humidity(%)_3'})"
+0.28793340537584367,"frozenset({'Wind_Chill(F)_4', 'Weather_Fair'})"
+0.266662459804749,"frozenset({'Humidity(%)_4', 'Temperature(F)_3'})"
+0.2628447326144858,frozenset({'Wind_Speed(mph)_3'})
+0.24811545732532977,frozenset({'Part_of_Day_Evening (18-23)'})
+0.24774209833013874,frozenset({'Humidity(%)_2'})
+0.24226003139370705,"frozenset({'Pressure(in)_2', 'Temperature(F)_3'})"
+0.24123197951258246,"frozenset({'Weather_Fair', 'Temperature(F)_3'})"
+0.23249748245607116,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Temperature(F)_4'})"
+0.23090676279346148,"frozenset({'Pressure(in)_3', 'Weather_Fair'})"
+0.22364729669682462,"frozenset({'Pressure(in)_3', 'Part_of_Day_Afternoon (12-17)'})"
+0.2145788799756002,"frozenset({'Wind_Chill(F)_4', 'Wind_Speed(mph)_4'})"
+0.21057447328774145,"frozenset({'Pressure(in)_3', 'Humidity(%)_3'})"
+0.21005913270282991,frozenset({'Part_of_Day_Morning (6-11)'})
+0.20990400466961673,"frozenset({'Pressure(in)_2', 'Temperature(F)_4'})"
+0.20964896366585947,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Pressure(in)_2'})"
+0.20770066074024995,"frozenset({'Wind_Chill(F)_4', 'Part_of_Day_Afternoon (12-17)', 'Temperature(F)_4'})"
+0.20697234777075757,"frozenset({'Wind_Chill(F)_4', 'Pressure(in)_3', 'Temperature(F)_3'})"

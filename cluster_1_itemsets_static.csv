@@ -1,0 +1,28 @@
+support,itemsets
+0.7057317809289249,frozenset({'Pressure(in)_2'})
+0.5559927565937914,frozenset({'Wind_Chill(F)_3'})
+0.4985910219206647,frozenset({'Weather_Fair'})
+0.4845141527248313,frozenset({'Temperature(F)_2'})
+0.3721316079135181,"frozenset({'Weather_Fair', 'Pressure(in)_2'})"
+0.37122134028838055,"frozenset({'Wind_Chill(F)_3', 'Pressure(in)_2'})"
+0.35703795041300973,frozenset({'Part_of_Day_Afternoon (12-17)'})
+0.33760922404526805,frozenset({'Temperature(F)_3'})
+0.30100161717758933,"frozenset({'Temperature(F)_2', 'Pressure(in)_2'})"
+0.2986968970203261,"frozenset({'Temperature(F)_2', 'Wind_Chill(F)_3'})"
+0.2915793788876013,frozenset({'Humidity(%)_4'})
+0.29086278522525894,frozenset({'Part_of_Day_Evening (18-23)'})
+0.2751300036475263,frozenset({'Pressure(in)_3'})
+0.2637903931258655,frozenset({'Humidity(%)_3'})
+0.26095629747029525,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Pressure(in)_2'})"
+0.2608949673820768,"frozenset({'Pressure(in)_2', 'Temperature(F)_3'})"
+0.23922285094529033,"frozenset({'Wind_Chill(F)_3', 'Temperature(F)_3'})"
+0.23912924186327264,frozenset({'Wind_Chill(F)_2'})
+0.2314984877291405,"frozenset({'Humidity(%)_4', 'Temperature(F)_2'})"
+0.22555269707132689,"frozenset({'Weather_Fair', 'Wind_Chill(F)_3'})"
+0.22084319187602283,frozenset({'Part_of_Day_Morning (6-11)'})
+0.21954234842591486,frozenset({'Wind_Speed(mph)_4'})
+0.21028150510492286,"frozenset({'Part_of_Day_Evening (18-23)', 'Pressure(in)_2'})"
+0.2056301020984574,frozenset({'Humidity(%)_2'})
+0.20335766093499333,"frozenset({'Part_of_Day_Afternoon (12-17)', 'Wind_Chill(F)_3'})"
+0.2032414565573162,frozenset({'Wind_Speed(mph)_3'})
+0.20012330575631296,frozenset({'Wind_Chill(F)_4'})

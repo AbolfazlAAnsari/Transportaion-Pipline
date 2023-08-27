@@ -1,0 +1,6 @@
+Column,Thresholds
+Temperature(F),"[0, 46.0, 58.0, 69.0, 78.1, inf]"
+Wind_Chill(F),"[0, 45.0, 59.66356956930072, 64.0, 76.0, inf]"
+Humidity(%),"[0, 44.0, 60.0, 73.0, 87.0, inf]"
+Pressure(in),"[0, 29.16, 29.69, 29.91, 30.04, inf]"
+Wind_Speed(mph),"[0, 3.0, 6.0, 8.0, 12.0, inf]"
